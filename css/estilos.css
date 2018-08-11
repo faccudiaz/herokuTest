@@ -8,12 +8,20 @@ body {
   height:480px;
 }
 
+nav a{
+	color: white;
+}
+
 footer{
 	margin-top: 20px;
 }
 
 .unique-color-dark {
     background-color: #1c2331 !important;
+}
+
+.unique-color-violet {
+    background-color: #6351ce !important;
 }
 
 footer.page-footer {
